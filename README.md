@@ -3,7 +3,7 @@
 A **GitHub Profile Viewer** web application that lets you log in with your GitHub account, view your profile details, and explore your public repositories — all powered by the **GitHub REST API** and **OAuth authentication**.
 
 🔗 **Live Demo:** [https://gh-profile-lens.onrender.com](https://gh-profile-lens.onrender.com)  
-📂 **Source Code:** [GitHub Repository](https://github.com/settings/apps/gh-profile-lens)  
+
 
 ---
 
